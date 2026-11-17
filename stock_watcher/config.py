@@ -3,7 +3,7 @@ import os
 
 load_dotenv()
 
-WATCHLIST = ["AAPL", "MSFT", "NVDA"]
+WATCHLIST = ["AAPL", "MSFT", "NVDA", "AMZN", "GOOGL"]
 
 
 def get_api_key() -> str:

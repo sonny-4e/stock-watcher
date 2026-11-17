@@ -224,3 +224,8 @@ __marimo__/
 
 # Visual Studio
 .vs/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
